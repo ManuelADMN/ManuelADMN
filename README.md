@@ -6,12 +6,10 @@
   🚀 Full-Stack Innovator · ML Apprentice · Aquaculture & Data Science Enthusiast
 </div>
 
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manueladmn)
 
----
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -32,15 +30,13 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
----
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelADMN&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&locale=en&layout=compact" width="220" alt="GitHub stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ManuelADMN&theme=gotham&hide_border=true&locale=en" width="220" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelADMN&theme=gotham&hide_border=true&layout=compact" width="220" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelADMN&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&locale=en&layout=compact" width="300" alt="GitHub stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ManuelADMN&theme=gotham&hide_border=true&locale=en" width="300" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelADMN&theme=gotham&hide_border=true&layout=compact" width="300" alt="Top languages" />
 </div>
 
----
 
 [![](https://visitcount.itsvg.in/api?id=ManuelADMN&icon=0&color=0)](https://visitcount.itsvg.in)
