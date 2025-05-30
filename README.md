@@ -32,13 +32,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ManuelADMN/ManuelADMN/output/snake.svg" alt="Snake animation" />
-
-###
 
 <p align="left">
 > 👋 **Manuel Díaz**<br>
