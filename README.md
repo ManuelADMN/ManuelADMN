@@ -29,6 +29,13 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-%23000000.svg?style=flat-square&logo=ultralytics&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
+
 
 
 # 📊 GitHub Stats:
