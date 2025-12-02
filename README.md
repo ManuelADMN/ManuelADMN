@@ -3,7 +3,7 @@
 <div align="left">
   <strong>👋 Manuel Díaz</strong><br>
   👨‍💻 Estudiante de Ingeniería Informática en Duoc UC<br>
-  🌊 Me gusta mezclar ML, datos y acuicultura en proyectos que ojalá terminen en producción algún día.
+  🌊 Entusiasta del Machine Learning y Data Science.
 </div>
 
 ---
